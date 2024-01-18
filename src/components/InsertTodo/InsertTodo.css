@@ -1,0 +1,35 @@
+.btn-add {
+    margin: 0;
+    background-color: darkcyan;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 64px;
+    height: 64px;
+    color: white;
+    font: 1em sans-serif;
+    font-weight: bold;
+    align-items: center;
+    display: table-column;
+}
+
+.btn-close {
+    margin: 0 1%;
+    background-color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 64px;
+    height: 64px;
+    color: black;
+    font: 1em sans-serif;
+    font-weight: bold;  
+}
+
+.container {
+    background: lightgray;
+    border-radius: 1em;
+    border-style: initial;
+    padding: 10px;
+    color:black;
+}

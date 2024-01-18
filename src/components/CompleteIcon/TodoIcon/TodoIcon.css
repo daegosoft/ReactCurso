@@ -1,0 +1,22 @@
+.icon-svg {
+    height: 24px;
+    width: 24px;
+}
+.icon-complete {
+    text-align: left;
+    column-count: 1;
+    cursor: pointer;
+}
+.icon-delete {
+    text-align: right;
+    padding-top: -15px!important;
+    cursor: pointer;
+}
+
+.icon-delete:hover .icon-svg {
+    fill: red;
+}
+
+.icon-complete:hover .icon-svg {
+    fill: green;
+}

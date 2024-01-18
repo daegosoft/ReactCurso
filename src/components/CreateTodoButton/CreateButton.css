@@ -1,0 +1,35 @@
+.btn {
+    display: initial;
+    float: right;
+    margin: 0;
+    background-color: darkcyan;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 64px;
+    height: 64px;
+    margin-top: 12px;
+    color: white;
+    font-size: 50px;
+    font: 1em sans-serif;
+    justify-content: center;
+    position: fixed;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 24px;
+    right: 24px;
+
+    transform: rotate(0);
+    transition: .3s ease;
+}
+
+.btn:hover {
+    background-color: darkgreen;
+    transform: rotate(224deg);
+}
+
+.no-visible {
+    display: none;
+}

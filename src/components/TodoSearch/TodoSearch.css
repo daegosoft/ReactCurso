@@ -1,0 +1,25 @@
+#todo {
+    width: 100%;
+    float: center;
+}
+input {
+    width: 80%;
+    text-align: center;
+    margin: 3% 10%;
+    border-radius: 1em;
+    font-size: 24px;
+}
+
+input::placeholder {
+    font-weight: 400;
+    color: darkgray;
+}
+
+input:focus {
+    font-size: 26px;
+}
+span {
+    max-width: 2%;
+    padding: 12px;
+    text-align: right;
+}
