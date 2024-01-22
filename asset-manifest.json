@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daegosoft/ReactCurso/static/css/main.45f62e35.css",
+    "main.js": "/daegosoft/ReactCurso/static/js/main.b7dfdd19.js",
+    "index.html": "/daegosoft/ReactCurso/index.html",
+    "main.45f62e35.css.map": "/daegosoft/ReactCurso/static/css/main.45f62e35.css.map",
+    "main.b7dfdd19.js.map": "/daegosoft/ReactCurso/static/js/main.b7dfdd19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f62e35.css",
+    "static/js/main.b7dfdd19.js"
+  ]
+}
